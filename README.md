@@ -3,7 +3,7 @@ Hi I made this project of <b>Eggshell Catcher </b> during the 7 Days Free Bootca
 </b>.
 <br>
 <div>
-##About the project
+## About the project
 <br>
 This is the traditional egg catching game made in Python using Tkinter as GUI library. The user can make the basket move both sides using the arrow keys to collect as many eggs as he/she can which is the scoring factor.
 </div>
@@ -14,7 +14,7 @@ This is the traditional egg catching game made in Python using Tkinter as GUI li
 <li>Python
 </div>
 <br>
-##How to play the game?
+## How to play the game?
 <li>As you run the program, game will automatically start.
 <li>Catch all the falling eggs.
 <li>Use arrow keys to control the basket.
