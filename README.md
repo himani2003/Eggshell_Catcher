@@ -10,7 +10,7 @@ This is the traditional egg catching game made in Python using Tkinter as GUI li
 
 <br>
 <div>
-### Tech stack Used
+## Tech stack Used
 <li>Python
 </div>
 <br>
