@@ -1,5 +1,5 @@
 # FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE 
-Hi I made this project of <b>Eggshell Catcher </b> during the 7 Days Free Bootcamp, conducted by <b> TechWave
+Hi I made this project <b>Eggshell Catcher </b> during the Full Stack development with python training program conducted by <b> TechWave
 </b>.
 <br>
 
